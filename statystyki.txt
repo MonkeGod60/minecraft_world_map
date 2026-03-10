@@ -1,8 +1,19 @@
 STATYSTYKI MINECRAFT - Światek
-Ostatnia aktualizacja: 2026-03-10 07:46:05
+Ostatnia aktualizacja: 2026-03-10 12:36:12
 -----------------------------------
-Przezyte dni: 12
-Czas gry: 4h 17m
-Smierci: 3
-Zabite moby: 10
-Dystans pieszo: 10.76 km
+Przezyte dni: 14
+Czas gry: 4h 54m
+Smierci: 4
+Zabite moby: 13
+Dystans pieszo: 12.18 km
+Wykopany wegiel: 122
+Wykopana miedz: 63
+Wykopane zelazo: 0
+Wykopane zloto: 0
+Wykopany diament: 0
+Wykopany redstone: 0
+Wykopany lazuryt: 0
+Wykopany szmaragd: 0
+Wykopany kwarc: 0
+Wykopany netheryt (ancient debris): 0
+Wykopany glowstone: 0
