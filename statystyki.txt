@@ -1,8 +1,8 @@
 STATYSTYKI MINECRAFT - Światek
-Ostatnia aktualizacja: 2026-03-10 06:21:45
+Ostatnia aktualizacja: 2026-03-10 07:46:05
 -----------------------------------
 Przezyte dni: 12
-Czas gry: 4h 16m
-Smierci: 1
-Zabite moby: 6
-Dystans pieszo: 10.61 km
+Czas gry: 4h 17m
+Smierci: 3
+Zabite moby: 10
+Dystans pieszo: 10.76 km
